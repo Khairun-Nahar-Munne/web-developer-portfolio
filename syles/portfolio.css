@@ -5,6 +5,7 @@ body {
 nav {
     display: flex;
     justify-content: space-between;
+    margin: 0px 200px;
 }
 
 nav>ul {
@@ -43,4 +44,12 @@ nav a {
     font-weight: 700;
     padding: 2px 18px;
 
+}
+
+.header {
+    background-color: #fff8f3;
+}
+
+.banner {
+    padding: 30px 30px 30px 150px;
 }
